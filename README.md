@@ -1,1 +1,2 @@
 # Management-KaraokeNice
+IDE: eclipse
